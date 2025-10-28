@@ -1,27 +1,56 @@
 # flutter-num-converter
 
-Este é um aplicativo simples de calculadora desenvolvido em Flutter que converte valores entre os sistemas numéricos **Decimal**, **Binário**, **Octal** e **Hexadecimal**. O programa permite ao usuário inserir um número em qualquer um desses sistemas e visualizar a conversão correspondente nos outros sistemas.
+This is a simple calculator app built with **Flutter** that converts values between **Decimal**, **Binary**, **Octal**, and **Hexadecimal** number systems.  
+The user can input a number in any of these systems and instantly see its conversion into the others.
 
-## 📱 Funcionalidades
-- **Entrada do usuário**: O usuário pode digitar um valor numérico e escolher o sistema numérico (Decimal, Binário, Octal, Hexadecimal).
-- **Conversão automática**: Após a seleção do sistema e a entrada do valor, o aplicativo converte automaticamente o número para os outros sistemas numéricos.
-- **Exibição de resultados**: O programa exibe os resultados da conversão nos seguintes formatos:
-  - Decimal
-  - Binário
-  - Octal
-  - Hexadecimal
-- **Validação de entrada**: O aplicativo valida se o valor inserido é válido. Caso contrário, uma mensagem de erro é exibida.
+---
 
-## ⚙️ Pré-requisitos
-- Flutter 3.0 ou superior.
-- IDE recomendada: Visual Studio Code ou Android Studio.
+## 📱 Features
 
-## FEITO POR: LUCAS MORIM, RÚBEN TEIXEIRA, GONÇALO OLIVEIRA
+- **User Input**:  
+  The user can enter a numeric value and choose the number system (Decimal, Binary, Octal, Hexadecimal).
 
-## 🚀 Como Executar o Projeto
-Clone o repositório:
+- **Automatic Conversion**:  
+  After selecting the system and entering the value, the app automatically converts it to the other number systems.
 
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+- **Result Display**:  
+  The program displays the conversion results in the following formats:
+  - Decimal  
+  - Binary  
+  - Octal  
+  - Hexadecimal  
 
+- **Input Validation**:  
+  The app checks if the entered value is valid.  
+  If not, an error message is displayed.
+
+---
+
+## ⚙️ Requirements
+
+- **Flutter 3.0** or higher  
+- Recommended IDE: **Visual Studio Code** or **Android Studio**
+
+---
+
+## 🚀 How to Run the Project
+
+Clone the repository:
+
+bash
+git clone https://github.com/your-username/flutter-num-converter.git
+
+
+cd flutter-num-converter
+
+
+Install dependencies:
+
+bash
+flutter pub get
+
+
+Run the app:
+
+bash
+flutter run
