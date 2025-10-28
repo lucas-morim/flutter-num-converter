@@ -37,6 +37,7 @@ The user can input a number in any of these systems and instantly see its conver
 
 Clone the repository:
 
+```
 bash
 git clone https://github.com/your-username/flutter-num-converter.git
 
@@ -54,3 +55,4 @@ Run the app:
 
 bash
 flutter run
+```
