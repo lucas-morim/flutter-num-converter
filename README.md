@@ -39,7 +39,7 @@ Clone the repository:
 
 ```
 bash
-git clone https://github.com/your-username/flutter-num-converter.git
+git clone https://github.com/lucas-morim/flutter-num-converter.git
 
 
 cd flutter-num-converter
